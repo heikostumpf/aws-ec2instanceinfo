@@ -1,6 +1,6 @@
-package de.heikostumpf.aws.ec2.info;
+package de.heikostumpf.aws.ec2instanceinfo;
 
-import de.heikostumpf.aws.ec2.info.EC2InstanceInfoApplication;
+import de.heikostumpf.aws.ec2instanceinfo.EC2InstanceInfoApplication;
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
 

@@ -1,4 +1,4 @@
-package de.heikostumpf.aws.ec2.info.models;
+package de.heikostumpf.aws.ec2instanceinfo.models;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Component;

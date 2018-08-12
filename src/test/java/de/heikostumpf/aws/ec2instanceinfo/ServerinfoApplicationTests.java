@@ -1,4 +1,4 @@
-package de.heikostumpf.aws.ec2.info;
+package de.heikostumpf.aws.ec2instanceinfo;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

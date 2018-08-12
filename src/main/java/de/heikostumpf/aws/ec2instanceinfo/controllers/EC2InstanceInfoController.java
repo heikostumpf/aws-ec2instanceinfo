@@ -1,6 +1,6 @@
-package de.heikostumpf.aws.ec2.info.controllers;
+package de.heikostumpf.aws.ec2instanceinfo.controllers;
 
-import de.heikostumpf.aws.ec2.info.models.EC2InstanceInfo;
+import de.heikostumpf.aws.ec2instanceinfo.models.EC2InstanceInfo;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
